@@ -1,0 +1,38 @@
+ body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background: rgb(72, 100, 44);
+ }
+ h1 {
+    height: 100px;
+    font-size: 100px;
+    color: rgb(131, 175, 87);
+ }
+ h {
+    height: 50px;
+    font-size: 40px;
+    color:  rgb(113, 151, 75);
+ }
+ input {
+    width: 350px;
+    height: 35px;
+    font-size: 30px;
+    border-radius: 9px;
+    background-color:  rgb(131, 175, 87);
+    color: rgb(58, 83, 33);
+ }
+ button {
+    height: 50px;
+    width: 200px;
+    border-radius: 5px;
+    font-size: 30px;
+    background-color:  rgb(113, 151, 75);
+    color: rgb(58, 83, 33);
+ }
+ p{
+    font-size: 50px;
+    background-color: rgb(131, 175, 87);
+    border-radius: 4px;
+    color: rgb(58, 83, 33);
+ }
